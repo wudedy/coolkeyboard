@@ -1,0 +1,1951 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-D",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111x",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "Categories":[
+      {
+         "name_category":"Frases de amor romántico para él o ella"
+      },
+      {
+         "name_category":"Frases de amor"
+      },
+      {
+         "name_category":"Frases románticas de Te amo"
+      },
+      {
+         "name_category":"Te amo Frase"
+      },
+      {
+         "name_category":"Citas de amor inspiradoras"
+      },
+      {
+         "name_category":"Frases De Ámate A Ti Mismo"
+      },
+      {
+         "name_category":"Frases de amor divertidas"
+      },
+      {
+         "name_category":"Te amo citas para ella"
+      },
+      {
+         "name_category":"Te amo citas para él"
+      },
+      {
+         "name_category":"Frases de amor triste"
+      },
+      {
+         "name_category":"Frases cortas de amor"
+      },
+      {
+         "name_category":"Frases de amor de películas"
+      },
+      {
+         "name_category":"Dichos de amor para un romance en ciernes"
+      },
+      {
+         "name_category":"Dichos de amor para parejas casadas"
+      }
+   ],
+   "Quotes":[
+      {
+         "id":1,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Vi que eras perfecto, y así te amé. Entonces vi que no eras perfecto y te amaba aún más. —Angelita Lim",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Sabes que estás enamorado cuando no puedes conciliar el sueño porque la realidad finalmente es mejor que tus sueños. —Dr. Seuss",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"El amor es esa condición en la que la felicidad de otra persona es esencial para la tuya. —Robert A. Heinlein",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Lo mejor a lo que aferrarse en la vida es el uno al otro. –Audrey Hepburn",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Te necesito como un corazón necesita un latido. –Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Soy quien soy gracias a ti. Eres cada razón, cada esperanza y cada sueño que he tenido. —El cuaderno",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Si tuviera una flor para cada vez que pensaba en ti... Podría caminar por mi jardín para siempre. —Alfred Tennyson",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Toma mi mano, toma toda mi vida también. Porque no puedo evitar enamorarme de ti. —Elvis Presley",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Si vives para ser cien, quiero vivir para ser cien menos un día para que nunca tenga que vivir sin ti. –A. A. Milne",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Eres el más cercano al cielo, que yo alguna vez estaré. —Muñecas Goo Goo",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Eres la persona más fina, encantadora, tierna y hermosa que he conocido e incluso eso es un eufemismo. —F. Scott Fitzgerald",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Nunca dejaré de intentarlo. Porque cuando encuentras el que... nunca te rindes. —Loco, estúpido, amor",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Siempre es mejor cuando estamos juntos. —Jack Johnson",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Te amo por todo lo que eres, todo lo que has sido y todo lo que serás. —Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"No te esperaba. No pensé que terminaríamos juntos. Lo más extraordinario que he hecho con mi vida es enamorarme de ti. Nunca me habían visto tan completamente, me habían amado tan apasionadamente y me habían protegido tan ferozmente. —Esto somos nosotros",
+         "image_author":"null"
+      },
+      {
+         "id":16,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Para el mundo puedes ser una persona, pero para una persona eres el mundo. —Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":17,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"He intentado muchas veces pensar en una nueva forma de decirlo, y sigue siendo que te amo. —Zelda Fitzgerald",
+         "image_author":"null"
+      },
+      {
+         "id":18,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Cuando te das cuenta de que quieres pasar el resto de tu vida con alguien, quieres que el resto de tu vida comience lo antes posible. —Cuando Harry conoció a Sally",
+         "image_author":"null"
+      },
+      {
+         "id":19,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Te amo y ese es el principio y el final de todo. —F. Scott Fitzgerald",
+         "image_author":"null"
+      },
+      {
+         "id":20,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Si sé lo que es el amor, es por ti. —Hermann Hesse",
+         "image_author":"null"
+      },
+      {
+         "id":21,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Mi alma y tu alma están enredadas para siempre. —N.R. Hart",
+         "image_author":"null"
+      },
+      {
+         "id":22,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Te amo más de lo que he encontrado una manera de decirte. —Ben se pliega",
+         "image_author":"null"
+      },
+      {
+         "id":23,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"A veces todo lo que necesitas es un abrazo de la persona adecuada y todo tu estrés se desvanecerá. —Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":24,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"En todo el mundo, no hay corazón para mí como el tuyo. En todo el mundo, no hay amor por ti como el mío. —Maya Angelou",
+         "image_author":"null"
+      },
+      {
+         "id":25,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Si te acuerdas de mí, entonces no me importa si todos los demás se olvidan. —Haruki Murakami",
+         "image_author":"null"
+      },
+      {
+         "id":26,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"El amor es cuando te sientas al lado de alguien que no hace nada, pero te sientes perfectamente feliz. —Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":27,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Él es más yo mismo que yo. Cualquiera que sea la forma en que estén hechas nuestras almas, la suya y la mía son lo mismo. —Emily Bronte",
+         "image_author":"null"
+      },
+      {
+         "id":28,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Eres, y siempre has sido, mi sueño.―Nicholas Sparks",
+         "image_author":"null"
+      },
+      {
+         "id":29,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Me encanta que seas la última persona con la que quiero hablar antes de irme a dormir por la noche. - Cuando Harry conoció a Sally",
+         "image_author":"null"
+      },
+      {
+         "id":30,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"El amor se compone de una sola alma que habita dos cuerpos. - Aristóteles",
+         "image_author":"null"
+      },
+      {
+         "id":31,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"¿Qué es el amor? Es la estrella de la mañana y la de la tarde. - Sinclair Lewis",
+         "image_author":"null"
+      },
+      {
+         "id":32,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Si encuentras a alguien que amas en tu vida, entonces aférrate a ese amor. - Princesa Diana",
+         "image_author":"null"
+      },
+      {
+         "id":33,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Te necesito como un corazón necesita un latido. — Una República",
+         "image_author":"null"
+      },
+      {
+         "id":34,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Nuestro amor es como el viento. No puedo verlo, pero puedo sentirlo. – Un paseo para recordar",
+         "image_author":"null"
+      },
+      {
+         "id":35,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Amarte nunca fue una opción. Era una necesidad. — Devorar la verdad",
+         "image_author":"null"
+      },
+      {
+         "id":36,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Siempre es mejor cuando estamos juntos. - Jack Johnson",
+         "image_author":"null"
+      },
+      {
+         "id":37,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Prefiero pasar una vida contigo, que enfrentarme solo a todas las edades de este mundo. - J.K.K. Tolken",
+         "image_author":"null"
+      },
+      {
+         "id":38,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Mi amor por ti no tiene profundidad, sus límites están en constante expansión. - Cristina Blanca",
+         "image_author":"null"
+      },
+      {
+         "id":39,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Cuando veo tu cara, no hay nada que cambiaría, porque eres increíble, tal como eres. - Bruno Marte",
+         "image_author":"null"
+      },
+      {
+         "id":40,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Gracias a ti, puedo sentirme lentamente, pero con seguridad, convirtiéndome en el yo que siempre he soñado ser. - Tyler Knott Gregson",
+         "image_author":"null"
+      },
+      {
+         "id":41,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Amamos con un amor que era más que amor. - Edgar Allen Poe",
+         "image_author":"null"
+      },
+      {
+         "id":42,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"El amor verdadero es raro, y es lo único que le da a la vida un significado real.  ― Nicolás Sparks",
+         "image_author":"null"
+      },
+      {
+         "id":43,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Vi que eras perfecto, y así te amé. Entonces vi que no eras perfecto y te amaba aún más. - Angelita Lim",
+         "image_author":"null"
+      },
+      {
+         "id":44,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Y en su sonrisa veo algo más bello que las estrellas. — En todo el universo",
+         "image_author":"null"
+      },
+      {
+         "id":45,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Fue amor a primera vista, a última vista, a la vista de todos y cada uno. ― Vladímir Nabokov",
+         "image_author":"null"
+      },
+      {
+         "id":46,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"En el amor verdadero quieres el bien de la otra persona. En el amor romántico quieres a la otra persona. - Margaret Anderson",
+         "image_author":"null"
+      },
+      {
+         "id":47,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"J’ai la chance d’avoir une personne comme toi dans ma vie qui me donne mille raisons de sourire tous les jours. Tu es si précieuse, ma belle.",
+         "image_author":"null"
+      },
+      {
+         "id":48,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Ton cœur est tellement plein d’amour, et j’ai la chance d’y trouver une place. Je t’aime, chérie.",
+         "image_author":"null"
+      },
+      {
+         "id":49,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Si vous étiez un livre, je vous lirais encore et encore. C’est à quel point je t’aime ma beauté.",
+         "image_author":"null"
+      },
+      {
+         "id":50,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Tu es l’âme la plus gentille qui rend ma vie belle et aimée.",
+         "image_author":"null"
+      },
+      {
+         "id":51,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Il faut beaucoup de chance pour avoir quelqu’un comme vous comme petit ami. Je me sens béni chaque jour et chaque instant pour ce cadeau.",
+         "image_author":"null"
+      },
+      {
+         "id":52,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Je t’aimerai jusqu’à mon dernier souffle, peu importe ce que la vie nous réserve !",
+         "image_author":"null"
+      },
+      {
+         "id":53,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Une femme aussi incroyable que vous ne vient pas de cette terre; ils viennent tout droit du ciel. Vous êtes la femme la plus parfaite de tous les temps!",
+         "image_author":"null"
+      },
+      {
+         "id":54,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Mon amour pour toi devient toujours plus fort, et je me perds lentement plus profondément dedans.",
+         "image_author":"null"
+      },
+      {
+         "id":55,
+         "name_category":"Frases de amor romántico para él o ella",
+         "author":"Frases de amor romántico para él o ella",
+         "quotes":"Ton amour est la source de mon bonheur. S’il vous plaît, ne me laissez jamais tranquille. Je ne peux pas imaginer un seul jour sans vous.",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"El amor no consiste en mirarse el uno al otro, sino en mirar hacia afuera juntos en la misma dirección. - Antoine de Saint-Exupery",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Siempre eres lo primero y lo último en este corazón mío. No importa a dónde vaya, o lo que haga, estoy pensando en ti. - Dierks Bentley",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Cuando te vi me enamoré, y sonreíste porque lo sabías. ― Arrigo Boito",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"El verdadero amor es poner a alguien más antes que a ti mismo. — Congelado",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Si tuviera que elegir entre respirar y amarte, usaría mi último aliento para decirte que te amo. - DeAnna Anderson",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Todo lo que eres es todo lo que necesitaré. - Ed Sheeran",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Me encanta ser la mitad de una pareja romántica. - Julianna Margulies",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Te amo. Tú... me completas. - Jerry Maguire",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"El verdadero amante es el hombre que puede emocionar besándote la frente o sonriendo a los ojos o simplemente mirando al espacio. - Marilyn Monroe",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"No te casas con alguien con quien puedes vivir, te casas con alguien sin quien no puedes vivir. — Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"El amor es ser estúpidos juntos. - Pablo Valery",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"El romance es el glamour que convierte el polvo de la vida cotidiana en una bruma dorada.  ― Elinor Glyn",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Ser tu amigo fue todo lo que siempre quise; ser tu amante fue todo lo que soñé. - Valerie Lombardo",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Cuando te miro a los ojos, sé que he encontrado el espejo de mi alma. - Joey W. Hill",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Un niño está sosteniendo a una niña muy fuerte en sus brazos esta noche. - Eduardo VIII",
+         "image_author":"null"
+      },
+      {
+         "id":16,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Sabes que es verdad. Todo lo que hago, lo hago por ti. - Bryan Adams",
+         "image_author":"null"
+      },
+      {
+         "id":17,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Para mí, eres perfecto. - Amor en realidad",
+         "image_author":"null"
+      },
+      {
+         "id":18,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Creo que te extrañaría incluso si nunca nos conociéramos. — La fecha de la boda",
+         "image_author":"null"
+      },
+      {
+         "id":19,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"La vida no es la cantidad de respiraciones que tomas, son los momentos que te quitan el aliento. – Enganche",
+         "image_author":"null"
+      },
+      {
+         "id":20,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Eres nada menos que mi todo. - Ralph Bloque",
+         "image_author":"null"
+      },
+      {
+         "id":21,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"El amor es una amistad musical. - José Campbell",
+         "image_author":"null"
+      },
+      {
+         "id":22,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Te amo comienza por yo, pero termina por ti. ― Carlos de Leusse",
+         "image_author":"null"
+      },
+      {
+         "id":23,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Me enamoré de la forma en que te duermes: lentamente, y luego todo a la vez. – La culpa en nuestras estrellas",
+         "image_author":"null"
+      },
+      {
+         "id":24,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"El romance es pensar en tu pareja, cuando se supone que debes estar pensando en otra cosa. ― Nicolás Sparks",
+         "image_author":"null"
+      },
+      {
+         "id":25,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Tu mano tocando la mía. Así es como chocan las galaxias. ― Sanober Khan",
+         "image_author":"null"
+      },
+      {
+         "id":26,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Durante miles de noches soñé con hacerte el amor. Ningún hombre en la tierra ha odiado el amanecer como yo. ― De nuevo la Magia",
+         "image_author":"null"
+      },
+      {
+         "id":27,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"En el primer momento en que lo vi, mi corazón se había ido irrevocablemente. ― Jane Auste",
+         "image_author":"null"
+      },
+      {
+         "id":28,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"ou son lo mejor que ha sido mío. - Taylor Swift ",
+         "image_author":"null"
+      },
+      {
+         "id":29,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Érase una vez un chico que amaba a una chica y su risa era una pregunta que quería pasar toda su vida respondiendo. ― La historia del amor",
+         "image_author":"null"
+      },
+      {
+         "id":30,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Es fácil enamorarse. La parte difícil es encontrar a alguien que te atrape. - Bertrand Russell",
+         "image_author":"null"
+      },
+      {
+         "id":31,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Una verdadera historia de amor nunca termina. — Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":32,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Me haces querer ser un hombre mejor. — Tan bueno como se pone",
+         "image_author":"null"
+      },
+      {
+         "id":33,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"No quiero cerrar los ojos, no quiero quedarme dormido, cuz te extrañaría nena y no quiero perderme nada. – Aerosmith",
+         "image_author":"null"
+      },
+      {
+         "id":34,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Toma el amor, multiplícalo por el infinito y llédalo a las profundidades de la eternidad, y todavía solo tienes un vistazo de cómo me siento por ti. - Conoce a Joe Black",
+         "image_author":"null"
+      },
+      {
+         "id":35,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"El amor es una fuerza más formidable que cualquier otra. - Bárbara de Angelis",
+         "image_author":"null"
+      },
+      {
+         "id":36,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Ser profundamente amado por alguien te da fuerza, mientras que amar a alguien profundamente te da coraje. – Lao Tse",
+         "image_author":"null"
+      },
+      {
+         "id":37,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Las verdaderas historias de amor nunca tienen fin. —Richard Bach",
+         "image_author":"null"
+      },
+      {
+         "id":38,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Te amo porque todo el universo conspiró para ayudarme a encontrarte. - El Alquimista",
+         "image_author":"null"
+      },
+      {
+         "id":39,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Nunca quiero dejar de hacer recuerdos contigo. - Pedro Jeanty",
+         "image_author":"null"
+      },
+      {
+         "id":40,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"He estado enamorado de ti desde el principio. Preguntaste por qué no hay nadie más en mi vida, y la razón ... eres tú. ― Julie James",
+         "image_author":"null"
+      },
+      {
+         "id":41,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"El agua brilla solo por el sol. Y sos sombrillas vosotr sos. - Carlos de Leusse",
+         "image_author":"null"
+      },
+      {
+         "id":42,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"No hay remedio para el amor sino amar más. - Henry David Thoreau",
+         "image_author":"null"
+      },
+      {
+         "id":43,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Prometo amarte para siempre, todos los días de siempre. – Crepúsculo",
+         "image_author":"null"
+      },
+      {
+         "id":44,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Cada vez que te veo, me enamlo de nuevo. — Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":45,
+         "name_category":"Frases de amor",
+         "author":"Frases de amor",
+         "quotes":"Eres el último pensamiento en mi mente antes de rme el sueño y el primer pensamiento cuando me despierto cada mañana. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Un alma gemela es alguien que te entiende como ningún otro, te ama como ningún otro, estará allí para ti para siempre, pase lo que pase. — P.S. Te amo",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"No amas a alguien por su apariencia, o su ropa, o por su lujoso automóvil, sino porque canta una canción que solo tú puedes escuchar. - Oscar Wilde",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Juro que no podría amarte más de lo que lo hago en este momento, y sin embargo, sé que lo haré mañana. - Leo Cristóbal",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Solo una vez en tu vida, realmente creo, encuentras a alguien que puede cambiar completamente tu mundo. - Bob Marley",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"El amor, al no tener geografía, no conoce fronteras. - Truman Capote",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Tus palabras son mi comida, tu aliento mi vino. Tú eres todo para mí. - Sarah Bernhardt",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"No hay encanto igual a ternura de corazón. - Jane Austen",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Mi corazón es y siempre será tuyo. - Juana Austen",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Amar y ser amado es sentir el sol desde ambos lados. - David Viscott",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Debes ser besado y a menudo, y por alguien que sepa cómo. - Lo que el viento se llevó",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"¿Te amo? Dios mío, si tu amor fuera un grano de arena, el mío sería un universo de playas. - La princesa prometida",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Hay una locura en amarte, una falta de razón que lo hace sentir tan impecable. - Leo Cristóbal",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Cada día te amo más, hoy más que ayer y menos que mañana. - Rosemonde Gerardo",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Porque todos yo los ama a todos. Ama tus curvas y todos tus bordes. Todas tus imperfecciones perfectas. Dame todo por mí. Te lo daré todo. Tú eres mi fin y mi comienzo. - Juan Leyenda",
+         "image_author":"null"
+      },
+      {
+         "id":16,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Era un millón de pequeñas cosas que, cuando las sumabas todas, significaban que se suponía que debíamos estar juntos... y yo lo sabía. – Insomnio en Seattle",
+         "image_author":"null"
+      },
+      {
+         "id":17,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"El amor no hace que el mundo gire. El amor es lo que hace que el viaje valga la pena. - Franklin P. Jones",
+         "image_author":"null"
+      },
+      {
+         "id":18,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"Cuando me miras, cuando piensas en mí, estoy en el paraíso. - Guillermo Makepeace Thackeray",
+         "image_author":"null"
+      },
+      {
+         "id":19,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"El día que mi vida cambió para siempre... El día que te vi por primera vez. – El viaje más largo",
+         "image_author":"null"
+      },
+      {
+         "id":20,
+         "name_category":"Frases románticas de Te amo",
+         "author":"Frases románticas de Te amo",
+         "quotes":"El amor es como el viento, no puedes verlo pero puedes sentirlo. ― Nicolás Sparks",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"Quiero a alguien que me mire de la misma manera que yo miro el pastel de chocolate. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"¿Quieres saber de quién estoy enamorado? Vuelve a leer la primera palabra. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"Te amo y no quiero perderte. Porque mi vida ha sido mejor desde el día en que me enteré. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"Te amo comienza por yo, pero termina por ti. - Carlos de Leusse",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"Te amo con cada latido de mi corazón. - Armaan",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"Te amo porque te unes a mí en mi rareza. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"Te amo sin saber cómo, ni cuándo, ni de dónde. Te amo directamente, sin complejidades ni orgullo; así que te amo porque no conozco otra manera. - Pablo Neruda",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"Mi amor por ti está más allá de la mente, más allá de mi corazón, y en mi alma. - Boris Kodjoe",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"Y cuando te amé, me di cuenta de que nunca he amado verdaderamente a nadie de lo que me di cuenta, nunca amaré verdaderamente a nadie de la manera en que te amo. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"Cuando te digo que te amo, no lo digo por costumbre. Lo digo para recordarte que eres lo mejor que me ha pasado. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"El día que te conocí, encontré mi pieza faltante. Me completas y me haces una mejor persona. Te amo con todo mi corazón y toda mi alma. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Te amo Frase",
+         "author":"Te amo Frase",
+         "quotes":"Te amo como a un niño gordo le encanta el pastel. - Scott Adams",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"Tienes que bailar como si no hubiera nadie mirando, amar como si nunca te lastimaran, cantar como si no hubiera nadie escuchando, y vivir como su cielo en la tierra. - William W. Purkey",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"La oscuridad no puede expulsar a la oscuridad: sólo la luz puede hacer eso. El odio no puede expulsar el odio: sólo el amor puede hacer eso. - Martin Luther King Jr.",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"La edad no te protege del amor, pero el amor hasta cierto punto te protege de la edad. - Juana Moreau",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"ove nunca se pierde. Si no es correspondido, fluirá de regreso y suavizará y purificará el corazón. - Washington Irving",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"La vida es el primer don, el amor es el segundo, y la comprensión el tercero. - Marge Piercy",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"Nunca pierdes por amar. Siempre se pierde conteniéndose. - Bárbara De Angelis",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"El amor es la expansión de dos naturalezas de tal manera que cada una incluye a la otra, cada una se enriquece con la otra. - Félix Adler",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"El amor no consiste en mirarse el uno al otro, sino en mirar juntos en la misma dirección. - Antoine de Saint-Exupéry",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"La bondad en las palabras crea confianza. La bondad en el pensamiento crea profundidad. La bondad al dar crea amor. – Lao Tse",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"Cuando nuestra comunidad está en un estado de paz, puede compartir esa paz con las comunidades vecinas, y así sucesivamente. Cuando sentimos amor y bondad hacia los demás, no solo hace que los demás se sientan amados y cuidados, sino que también nos ayuda a desarrollar la felicidad interior y la paz. – Dalai Lama",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"La gente piensa que un alma gemela es tu ajuste perfecto, y eso es lo que todos quieren. Pero un verdadero alma gemela es un espejo, la persona que te muestra todo lo que te está frenando, la persona que te llama la atención para que puedas cambiar tu vida. - Elizabeth Gilbert",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"Estoy aquí. Te amo. No me importa si necesitas quedarte despierto llorando toda la noche, me quedaré contigo. No hay nada que puedas hacer para perder mi amor. Te protegeré hasta que mueras, y después de tu muerte, todavía te protegeré. Soy más fuerte que la depresión y soy más valiente que la soledad y nada me agotará jamás. - Elizabeth Gilbert",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"El amor es el emblema de la eternidad; confunde toda noción de tiempo; borra todo recuerdo de un principio, todo miedo a un final. - Madame de Stael",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"El amor es una emoción experimentada por muchos y disfrutada por unos pocos. - George Jean Nathan",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Citas de amor inspiradoras",
+         "author":"Citas de amor inspiradoras",
+         "quotes":"El amor es más que un sustantivo, es un verbo; es más que un sentimiento: es cuidar, compartir, ayudar, sacrificar. - William Arthur Ward",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Simplemente no renuncies a tratar de hacer lo que realmente quieres hacer. Donde hay amor e inspiración, no creo que puedas equivocarte. - Ella Fitzgerald",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Sigue algún camino, por estrecho y torcido que sea, en el que puedas caminar con amor y reverencia. - Henry David Thoreau",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Haz lo que amas, y encontrarás la manera de sacarlo al mundo. - Judy Collins",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"El amor propio, mi lugar, no es un pecado tan vil, como el autodescuido. - William Shakespeare",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Es mejor ser odiado por lo que eres que ser amado por lo que no eres. – Andre Gide",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Necesitas saber que eres suficiente. Estás completo con o sin pareja. Eres suficiente tal como eres. - Megan Markle",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Esta ha sido mi vida; Me pareció que valía la pena vivirlo. - Bertrand Russell",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Debemos ser nuestros antes de poder ser de los demás. - Ralph Waldo Emerson",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Elige un trabajo que ames y nunca tendrás que trabajar un día en tu vida. - Confucio",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Deja que la belleza de lo que amas sea lo que haces. – Rumi",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Sólo el amor verdadero puede alimentar el arduo trabajo que te espera. - Tom Freston",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Ama muchas cosas, porque ahí radica la verdadera fuerza, y quien ama mucho realiza mucho y puede lograr mucho, y lo que se hace en el amor se hace bien. - Vicente van Gogh",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"El mayor grado de tranquilidad interior proviene del desarrollo del amor y la compasión. Cuanto más nos preocupamos por la felicidad de los demás, mayor es nuestra propia sensación de bienestar. – Dalai Lama",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"He decidido ceñéndome al amor; el odio es una carga demasiado grande para soportar. - Martin Luther King, Jr.",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Lo mejor que aprenderás es amar y ser amado a cambio. - Natalie Cole",
+         "image_author":"null"
+      },
+      {
+         "id":16,
+         "name_category":"Frases De Ámate A Ti Mismo",
+         "author":"Frases De Ámate A Ti Mismo",
+         "quotes":"Creo que todo sucede por una razón. Las personas cambian para que puedas aprender a dejar ir, las cosas van mal para que las aprecies cuando tienen razón, crees mentiras para que eventualmente aprendas a confiar en nadie más que en ti mismo, y a veces las cosas buenas se desmoronan para que las cosas mejores puedan caer juntas. - Marilyn Monroe",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"El amor es compartir tus palomitas de maíz. - Carlos Schultz",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"Como hombre en una relación, tienes una opción: puedes tener razón o puedes ser feliz. - Ralphie May",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"Solo quería hacerte saber que te amo a pesar de que no estás desnudo en este momento. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"Si el amor es la respuesta, ¿podrías reformular la pregunta? - Lily Tomlin",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"La gravitación no es responsable de que las personas se enamen. - Albert Einstein",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"El amor es como pi: natural, irracional y muy importante. - Lisa Hoffman",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"Todos somos un poco raros. Y la vida es un poco rara. Y cuando encontramos a alguien cuya rareza es compatible con la nuestra, nos unimos a ellos y caemos en una rareza mutuamente satisfactoria, y lo llamamos amor, amor verdadero. - Roberto Fulghum",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"El amor es algo enviado desde el cielo para preocuparte por ti. - Dolly Parton",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"Siempre hay algo de locura en el amor. Pero también siempre hay alguna razón en la locura. - Friedrich Nietzsche",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"El amor es un océano de emociones totalmente rodeado de gastos. - Tomás Dewar",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"El amor se parece mucho a un dolor de espalda, no aparece en las radiografías, pero sabes que está ahí. - George Burns",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"Te amo más que el café, pero por favor no me hagas probarlo. - Elizabeth Evans",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"El amor significa tener que decir que lo sientes cada quince minutos. - John Lennon",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"Un beso es un truco encantador diseñado por la naturaleza para detener el habla cuando las palabras se vuelven superfluas. - Ingrid Bergman",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"Amor: una locura temporal, curable por el matrimonio. - Ambrosio Bierce",
+         "image_author":"null"
+      },
+      {
+         "id":16,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"Lo que el mundo realmente necesita es más amor y menos papeleo. - Perla Bailey",
+         "image_author":"null"
+      },
+      {
+         "id":17,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"El amor es como el Cielo, pero puede doler como el Infierno. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":18,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"No es el amor lo que complica una relación; son las personas en él las que lo hacen. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":19,
+         "name_category":"Frases de amor divertidas",
+         "author":"Frases de amor divertidas",
+         "quotes":"Un chico sabe que está enamorado cuando pierde interés en su coche durante un par de días. - Tim Allen",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Te amo citas para ella",
+         "author":"Te amo citas para ella",
+         "quotes":"Un hombre ya está medio enamorado de cualquier mujer que lo escuche. - Brendan Francisco",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Te amo citas para ella",
+         "author":"Te amo citas para ella",
+         "quotes":" te amo como ciertas cosas oscuras deben ser amadas, en secreto, entre la sombra y el alma. - Pablo Neruda",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Te amo citas para ella",
+         "author":"Te amo citas para ella",
+         "quotes":"Las mujeres están destinadas a ser amadas, no a ser entendidas. - Oscar Wilde",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Te amo citas para ella",
+         "author":"Te amo citas para ella",
+         "quotes":"Me haces querer ser un hombre mejor. – Melvin Udall",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Te amo citas para ella",
+         "author":"Te amo citas para ella",
+         "quotes":"Pensar en ti me mantiene despierto. Soñar contigo me mantiene dormido. Estar contigo me mantiene vivo. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Te amo citas para ella",
+         "author":"Te amo citas para ella",
+         "quotes":"Me enamoré de su coraje, su sinceridad y su ardiente autoestima. Y son estas cosas en las que creería, incluso si el mundo entero se entregara a sospechas salvajes de que ella no era todo lo que debería ser. La amo y es el comienzo de todo. - F. Scott Fitzgerald",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Te amo citas para ella",
+         "author":"Te amo citas para ella",
+         "quotes":"Si vives para ser cien, quiero vivir para ser cien menos un día para que nunca tenga que vivir sin ti. – A. A. Milne",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Te amo citas para él",
+         "author":"Te amo citas para él",
+         "quotes":"Te necesito como un corazón necesita un latido. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Te amo citas para él",
+         "author":"Te amo citas para él",
+         "quotes":"Cuando digo que te amo más, no quiero decir que te amo más de lo que tú me amas. Quiero decir que te amo más que los malos días que tenemos por delante, te amo más que cualquier pelea que jamás tengamos. Te amo más que la distancia entre nosotros, te amo más que cualquier obstáculo que pueda intentar cruzarse entre nosotros. Te quiero más. – Desconocido",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Te amo citas para él",
+         "author":"Te amo citas para él",
+         "quotes":"Te amo no solo por lo que eres, sino por lo que soy cuando estoy contigo. Te amo no solo por lo que has hecho de ti mismo, sino por lo que estás haciendo de mí. Te amo por la parte de mí que sacas a relucir. - Elizabeth Barrett Browning",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Te amo citas para él",
+         "author":"Te amo citas para él",
+         "quotes":"Me enamoré de la forma en que te duermes: lentamente, y luego todo a la vez. - Juan Verde",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Te amo citas para él",
+         "author":"Te amo citas para él",
+         "quotes":"Te amé ayer, te amo todavía, siempre lo he hecho, siempre lo haremos. - Elaine Davis",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"El amor no comienza y termina de la manera en que parecemos pensar que lo hace. El amor es una batalla, el amor es una guerra; el amor es un crecimiento. - James Baldwin",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"Al final descubrimos que amar y dejar ir puede ser lo mismo. - Jack Kornfield",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"El placer del amor dura sólo un momento. El dolor del amor dura toda la vida. - Bette Davis",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"Amar en absoluto es ser vulnerable. Ama cualquier cosa y tu corazón será retorcido y posiblemente roto. Si quieres asegurarte de mantenerlo intacto no debes dárselo a nadie, ni siquiera a un animal. Envuélvelo cuidadosamente con pasatiempos y pequeños lujos; evitar todos los enredos. Enciérralo a salvo en el ataúd o ataúd de tu egoísmo. Pero en ese ataúd, seguro, oscuro, inmóvil, sin aire, cambiará. No se romperá; se volverá irrompible, impenetrable, irredimible. Amar es ser vulnerable. - C.S. Lewis",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"Nunca hay un tiempo o lugar para el amor verdadero. Sucede accidentalmente, en un abrir y cerrar de ojos, en un solo momento parpadeante y palpitante. - Sarah Dessen",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"El amor es esa condición en la que la felicidad de otra persona es esencial para la tuya. - Robert A. Heinlein",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"El amor nunca muere de muerte natural. Muere porque no sabemos cómo reponer su fuente. Muere de ceguera, errores y traiciones. Muere de enfermedades y heridas; muere de cansancio, de marchencias, de empañamientos. - Anais Nin",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"No es un amante que no ama para siempre. – Eurípides",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"Amar es quemar, estar en llamas. - Juana Austen",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"El amor es una fuerza indómita. Cuando tratamos de controlarlo, nos destruye. Cuando tratamos de encarcelarlo, nos esclaviza. Cuando tratamos de entenderlo, nos deja sintiéndonos perdidos y confundidos. - Paulo Coelho",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"El amor es tan corto, el olvido es tan largo. - Pablo Neruda",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"El amor es una cosa que está llena de preocupaciones y miedos. – Ovidio",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Frases de amor triste",
+         "author":"Frases de amor triste",
+         "quotes":"El amor no es amor hasta que el amor es vulnerable. - Teodoro Roethke",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"El amor es la máxima expresión de la voluntad de vivir. - Tom Wolfe",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"El amor es lo que hace que el viaje valga la pena. - Franklin P. Jones",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"Si sé lo que es el amor, es por ti. - Hermann Hesse",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"El amor que regalamos es el único amor que guardamos. - Elbert Hubbard",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"Dime a quién amas y te diré quién eres. - Houssaye",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"Confía en tu intuición y guíate por el amor. - Carlos Eisenstein",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"Eso es todo lo que es la no violencia: amor organizado. - Juana Báez",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"Nos encanta porque es la única aventura verdadera. - Nikki Giovanni",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"Ama a todos, confía en unos pocos, no hagas mal a nadie. - William Shakespeare",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"Tú lo llamas locura, pero yo lo llamo amor. - Don Byas",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"Sólo podemos aprender a amar amando. - Iris Murdoch",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"Una vida vivida en el amor nunca será aburrida. - Leo Buscaglia",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"La vida es la flor para la cual el amor es la miel. - Víctor Hugo",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"Todo lo que necesitas es amor. - Paul McCartney",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"Las verdaderas historias de amor nunca tienen fin. - Richard Bach",
+         "image_author":"null"
+      },
+      {
+         "id":16,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"El amor se muestra más en los hechos que en las palabras. - San Ignacio",
+         "image_author":"null"
+      },
+      {
+         "id":17,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"El amor no es algo voluntario. - Samuel Richardson",
+         "image_author":"null"
+      },
+      {
+         "id":18,
+         "name_category":"Frases cortas de amor",
+         "author":"Frases cortas de amor",
+         "quotes":"El amor es amistad en llamas. - Susan Sontag",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Para mí, eres perfecto. – Amor en realidad ",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"El verdadero amor es poner a alguien más antes que a ti mismo. – Congelado",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Melanie: ¿Por qué querrías casarte conmigo de todos modos? Jake: Así que puedo besarte cuando quiera. - Dulce Hogar Alabama",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"La gente llama a esas imperfecciones, pero no, eso es lo bueno. – Caza de Buena Voluntad",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Era un millón de pequeñas cosas que, cuando las sumabas todas, significaban que se suponía que debíamos estar juntos... y yo lo sabía. Lo supe la primera vez que la toqué. – Insomnio en Seattle",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Te amo. Lo supe en el momento en que te conocí. Lamento que me haya tomado tanto tiempo ponerme al día. Me quedé atascado. – Libro de jugadas de Silver Linings",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Nunca envejecerás por mí, ni te desvanecerás, ni morirás. - Shakespeare enamorado ",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Te amo. Tú... me completas. - Jerry Macguire",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Nunca dejaré de intentarlo. Porque cuando encuentras el que... nunca te rindes. – Loco, Estúpido, Amor",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Y en su sonrisa, veo algo más hermoso que las estrellas. – En todo el universo",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Debes ser besado y a menudo, y por alguien que sepa cómo. - Lo que el viento se llevó",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Quería que fueras tú, quería que fueras tú tan mal. – Tienes correo",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Mientras leía, me enamoré de la forma en que te duermes: lentamente, y luego todo a la vez. – La culpa en nuestras estrellas",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"El amor, he llegado a entender, son más de tres palabras murmuradas antes de acostarse. – La Boda",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Solo soy una niña, de pie frente a un niño, pidiéndole que la ame. - Colina de Notting",
+         "image_author":"null"
+      },
+      {
+         "id":16,
+         "name_category":"Frases de amor de películas",
+         "author":"Frases de amor de películas",
+         "quotes":"Cuando te miro, puedo sentirlo. Te miro y estoy en casa. - Buscando a Nemo",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Nada realmente tenía sentido hasta que llegaste a mi vida.",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Soy mucho más 'yo' cuando estoy contigo.",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Pensar en ti me mantiene despierto. Soñar contigo me mantiene dormido. Estar contigo me mantiene vivo.",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"A pesar del miedo y la incertidumbre, quiero que sepas que te amo, estoy aquí y estoy dispuesto a verlo todo mientras estés a mi lado.",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Nunca entendí realmente lo que significaba sentirse vivo hasta que me envolviste con tu amor.",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Gracias por entrar en mi vida y traer color a mi mundo que una vez fue oscuro y gris.",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"El corazón quiere lo que quiere, y como parece, mi corazón no quiere nada más que estar contigo.",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Solía tratar de dejar de pensar en ti, pero ahora mi mente te abraza como si fueras exactamente lo que necesito para sobrevivir a esta vida.",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Algunos dicen que el amor verdadero puede durar toda la vida, y me encantaría pasar el resto de mi vida contigo averiguando si eso fuera cierto.",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Eres todo lo que nunca supe que quería en esta vida.",
+         "image_author":"null"
+      },
+      {
+         "id":11,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"¿Es posible amar demasiado a alguien? Porque siento que te amo más de lo que mi cuerpo puede contener.",
+         "image_author":"null"
+      },
+      {
+         "id":12,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Cada vez que te digo que llegues a casa sano y salvo, que duermas bien, que comas y que te cuides, en realidad quiero decir que te amo. Este sentimiento se ha comido tanto de mí que está empezando a robar lo que significan otras palabras.",
+         "image_author":"null"
+      },
+      {
+         "id":13,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Me detuve un momento y me di cuenta de que estabas en mi mente. Traté de recordar cuánto tiempo había estado pensando en ti y luego me di cuenta de que nunca se detuvo. Has estado en mi mente desde el momento en que te vi por primera vez.",
+         "image_author":"null"
+      },
+      {
+         "id":14,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"No confundas a alguien que no sabía cómo amarte con el amor mismo. No tengas miedo de amar de nuevo.",
+         "image_author":"null"
+      },
+      {
+         "id":15,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Es al recibir amor que aprendemos a ser fuertes. Es al dar amor que aprendemos a ser valientes.",
+         "image_author":"null"
+      },
+      {
+         "id":16,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Se siente como si hubiera sido una vela polvorienta, escondida durante años, hasta que entraste, todo encendido y brillante, que una vez más me incendiaron.",
+         "image_author":"null"
+      },
+      {
+         "id":17,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Cada vez que alguien me pregunta cómo me veo a mí mismo cuando soy mayor, nunca sé qué decir. Pero luego llegaste a mi vida y ahora sé exactamente lo que quiero: quiero estar enamorado de ti hasta que sea viejo y gris.",
+         "image_author":"null"
+      },
+      {
+         "id":18,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Siento que puedo sobrevivir a esta vida. Como si yo pueda seguir sin dormir. Como si yo pueda vivir sin tener que comer, ni soñar, ni nada por el estilo por el resto de mi vida. Mientras tenga tu amor, siento que eso es todo lo que necesitaré.",
+         "image_author":"null"
+      },
+      {
+         "id":19,
+         "name_category":"Dichos de amor para un romance en ciernes",
+         "author":"Dichos de amor para un romance en ciernes",
+         "quotes":"Finalmente estoy en este punto en el que no siempre siento que tengo prisa por irme a dormir. Como si no quisiera prolongar cada noche, porque finalmente, la realidad es mejor que mis sueños.",
+         "image_author":"null"
+      },
+      {
+         "id":1,
+         "name_category":"Dichos de amor para parejas casadas",
+         "author":"Dichos de amor para parejas casadas",
+         "quotes":"El amor es la luz de la vida y el matrimonio es la factura de la luz.",
+         "image_author":"null"
+      },
+      {
+         "id":2,
+         "name_category":"Dichos de amor para parejas casadas",
+         "author":"Dichos de amor para parejas casadas",
+         "quotes":"Todo el mundo sigue diciendo que el amor es ciego, y eso es cierto. Es solo el matrimonio lo que puede abrir nuestros ojos.",
+         "image_author":"null"
+      },
+      {
+         "id":3,
+         "name_category":"Dichos de amor para parejas casadas",
+         "author":"Dichos de amor para parejas casadas",
+         "quotes":"El matrimonio es básicamente tener la oportunidad de molestar a alguien por el resto de tu vida, y luego esperar que todavía te sigan amando de todos modos.",
+         "image_author":"null"
+      },
+      {
+         "id":4,
+         "name_category":"Dichos de amor para parejas casadas",
+         "author":"Dichos de amor para parejas casadas",
+         "quotes":"Los matrimonios felices son el resultado de casarnos con las personas que amamos. Los matrimonios duraderos son el resultado de amar a las personas con las que nos casamos.",
+         "image_author":"null"
+      },
+      {
+         "id":5,
+         "name_category":"Dichos de amor para parejas casadas",
+         "author":"Dichos de amor para parejas casadas",
+         "quotes":"El éxito en un matrimonio es más que simplemente encontrar a la persona adecuada para amar. Se trata de convertirse en la persona adecuada para amar.",
+         "image_author":"null"
+      },
+      {
+         "id":6,
+         "name_category":"Dichos de amor para parejas casadas",
+         "author":"Dichos de amor para parejas casadas",
+         "quotes":"Te amo. Me molestas más que a cualquier otra persona que conozco. Pero te amo. Y quiero pasar cada momento irritante de esta vida contigo.",
+         "image_author":"null"
+      },
+      {
+         "id":7,
+         "name_category":"Dichos de amor para parejas casadas",
+         "author":"Dichos de amor para parejas casadas",
+         "quotes":"¿Quieres un matrimonio exitoso? Acepta tus diferencias y elige amar a tu pareja incluso cuando sea difícil. No existe tal cosa como el matrimonio perfecto o el amor perfecto. Solo personas imperfectas que dan lo mejor de sí.",
+         "image_author":"null"
+      },
+      {
+         "id":8,
+         "name_category":"Dichos de amor para parejas casadas",
+         "author":"Dichos de amor para parejas casadas",
+         "quotes":"A veces, cuando estoy pasando por algunos desafíos realmente difíciles, miro tu imagen y me siento fuerte de nuevo. Quiero decir, si pudiera sobrevivir estando enamorado de ti durante cuántos años, ¡entonces no hay nada que no pueda hacer!",
+         "image_author":"null"
+      },
+      {
+         "id":9,
+         "name_category":"Dichos de amor para parejas casadas",
+         "author":"Dichos de amor para parejas casadas",
+         "quotes":"El amor verdadero significa mantener la boca cerrada sobre la verdad, incluso si se te da la oportunidad ideal de herir realmente los sentimientos de otra persona.",
+         "image_author":"null"
+      },
+      {
+         "id":10,
+         "name_category":"Dichos de amor para parejas casadas",
+         "author":"Dichos de amor para parejas casadas",
+         "quotes":"En el matrimonio, el romance es la guinda y el amor es el pastel.",
+         "image_author":"null"
+      }
+   ]
+}
