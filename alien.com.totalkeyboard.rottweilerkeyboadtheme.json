@@ -2,22 +2,22 @@
 
 "Ads": [
     {
-      "select_main_ads": "IRON",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "DefaultBanner",
-      "main_ads_intertitial":"DefaultInterstitial",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "initialize_sdk":"10fc94e15",
-      "initialize_sdk_backup_ads":"",
-      "url_webiste":"https://play.google.com/store/apps/details?id=com.coolkeyboard.bettafishkeyboardthemes",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "7a0926dea67bedcc",
+      "main_ads_intertitial":"e4b254967c8a2731",
+      "backup_ads_banner":"4b3d6e6474364e81a1de685f590335ee",
+      "backup_ads_intertitial":"6082a44976fc421c8993ca23611ccad4",
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"4b3d6e6474364e81a1de685f590335ee",
+      "url_webiste":"https://play.google.com/store/apps/details?id=com.totalkeyboard.rottweilerkeyboadtheme",
       "high_paying_keyword_1": "Forex",
       "high_paying_keyword_2": "Insurance",
       "high_paying_keyword_3": "Binary Option",
       "high_paying_keyword_4": "Finance",
       "high_paying_keyword_5": "Trading Forex",
       "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=com.coolkeyboard.bettafishkeyboardthemes"
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.totalkeyboard.rottweilerkeyboadtheme"
     }
   ]
 }
