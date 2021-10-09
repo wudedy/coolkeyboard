@@ -2,8 +2,8 @@
 
 "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"MOPUB",
       "main_ads_banner": "7a0926dea67bedcc",
       "main_ads_intertitial":"e4b254967c8a2731",
       "backup_ads_banner":"4b3d6e6474364e81a1de685f590335ee",
