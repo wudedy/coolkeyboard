@@ -80,14 +80,14 @@ Bantu Kita Buat Review Aplikasi Ini ya Ka
 "LATER_BUTTON" : "Later",
 "ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
-Aplikasi Keren Resep Umpanan Pancing
+Aplikasi Keren Cara Sukses Finansial
 
 ",
 
 "MORE_BUTTON" : "Share Via WhatsApp",
 // Jika share button TRUE maka tombol MORE berubah SHARE
 // isi url more apps jika ENABLE_SHARE_BUTTON  is false
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.coolkeyboard.racikanumpanpancingrahasia"
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.coolkeyboard.carasuksesfinansialdiusiamuda"
 
  }
 }
