@@ -1,0 +1,406 @@
+{
+   "Ads":[
+      {
+         "Ads":[
+            {
+               "select_main_ads":"ADMOB",
+               "select_backup_ads":"APPLOVIN-D",
+               "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+               "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+               "main_ads_reward":"ca-app-pub-3940256099942544/5224354917",
+               "backup_ads_banner":"db4d5e8718b97d78",
+               "backup_ads_intertitial":"518cd97722c60b52",
+               "backup_ads_reward":"",
+               "interval_intertitial":5,
+               "initialize_sdk":"",
+               "initialize_sdk_backup_ads":"",
+               "high_paying_keyword_1":"",
+               "high_paying_keyword_2":"",
+               "high_paying_keyword_3":"",
+               "high_paying_keyword_4":"",
+               "high_paying_keyword_5":"",
+               "status_app":"0",
+               "link_redirect":"https://"
+            }
+         ]
+      }
+   ],
+   "Skin":[
+      {
+         "name_skin":"Pocong 1",
+         "install":"https://archive.org/download/pocongjadi/pocong001.png"
+      },
+      {
+         "name_skin":"Pocong 2",
+         "install":"https://archive.org/download/pocongjadi/pocong002.png"
+      },
+      {
+         "name_skin":"Pocong 3",
+         "install":"https://archive.org/download/pocongjadi/pocong003.png"
+      },
+      {
+         "name_skin":"Pocong 4",
+         "install":"https://archive.org/download/pocongjadi/pocong004.png"
+      },
+      {
+         "name_skin":"Pocong 5",
+         "install":"https://archive.org/download/pocongjadi/pocong005.png"
+      },
+      {
+         "name_skin":"Pocong 6",
+         "install":"https://archive.org/download/pocongjadi/pocong006.png"
+      },
+      {
+         "name_skin":"Pocong 7",
+         "install":"https://archive.org/download/pocongjadi/pocong007.png"
+      },
+      {
+         "name_skin":"Pocong 8",
+         "install":"https://archive.org/download/pocongjadi/pocong008.png"
+      },
+      {
+         "name_skin":"Pocong 9",
+         "install":"https://archive.org/download/pocongjadi/pocong009.png"
+      },
+      {
+         "name_skin":"Pocong 10",
+         "install":"https://archive.org/download/pocongjadi/pocong010.png"
+      },
+      {
+         "name_skin":"Pocong 11",
+         "install":"https://archive.org/download/pocongjadi/pocong011.png"
+      },
+      {
+         "name_skin":"Pocong 12",
+         "install":"https://archive.org/download/pocongjadi/pocong012.png"
+      },
+      {
+         "name_skin":"Pocong 13",
+         "install":"https://archive.org/download/pocongjadi/pocong013.png"
+      },
+      {
+         "name_skin":"Pocong 14",
+         "install":"https://archive.org/download/pocongjadi/pocong014.png"
+      },
+      {
+         "name_skin":"Pocong 15",
+         "install":"https://archive.org/download/pocongjadi/pocong015.png"
+      },
+      {
+         "name_skin":"Pocong 16",
+         "install":"https://archive.org/download/pocongjadi/pocong016.png"
+      },
+      {
+         "name_skin":"Pocong 17",
+         "install":"https://archive.org/download/pocongjadi/pocong017.png"
+      },
+      {
+         "name_skin":"Pocong 18",
+         "install":"https://archive.org/download/pocongjadi/pocong018.png"
+      },
+      {
+         "name_skin":"Pocong 19",
+         "install":"https://archive.org/download/pocongjadi/pocong019.png"
+      },
+      {
+         "name_skin":"Pocong 20",
+         "install":"https://archive.org/download/pocongjadi/pocong020.png"
+      },
+      {
+         "name_skin":"Creepy 1",
+         "install":"https://archive.org/download/pocongjadi/creepy001.png"
+      },
+      {
+         "name_skin":"Creepy 2",
+         "install":"https://archive.org/download/pocongjadi/creepy002.png"
+      },
+      {
+         "name_skin":"Creepy 3",
+         "install":"https://archive.org/download/pocongjadi/creepy003.png"
+      },
+      {
+         "name_skin":"Creepy 4",
+         "install":"https://archive.org/download/pocongjadi/creepy004.png"
+      },
+      {
+         "name_skin":"Creepy 5",
+         "install":"https://archive.org/download/pocongjadi/creepy005.png"
+      },
+      {
+         "name_skin":"Creepy 6",
+         "install":"https://archive.org/download/pocongjadi/creepy006.png"
+      },
+      {
+         "name_skin":"Creepy 7",
+         "install":"https://archive.org/download/pocongjadi/creepy007.png"
+      },
+      {
+         "name_skin":"Creepy 8",
+         "install":"https://archive.org/download/pocongjadi/creepy008.png"
+      },
+      {
+         "name_skin":"Creepy 9",
+         "install":"https://archive.org/download/pocongjadi/creepy009.png"
+      },
+      {
+         "name_skin":"Creepy 10",
+         "install":"https://archive.org/download/pocongjadi/creepy010.png"
+      },
+      {
+         "name_skin":"Creepy 11",
+         "install":"https://archive.org/download/pocongjadi/creepy011.png"
+      },
+      {
+         "name_skin":"Creepy 12",
+         "install":"https://archive.org/download/pocongjadi/creepy012.png"
+      },
+      {
+         "name_skin":"Dracula 1",
+         "install":"https://archive.org/download/pocongjadi/dracula001.png"
+      },
+      {
+         "name_skin":"Dracula 2",
+         "install":"https://archive.org/download/pocongjadi/dracula002.png"
+      },
+      {
+         "name_skin":"Dracula 3",
+         "install":"https://archive.org/download/pocongjadi/dracula003.png"
+      },
+      {
+         "name_skin":"Dracula 4",
+         "install":"https://archive.org/download/pocongjadi/dracula004.png"
+      },
+      {
+         "name_skin":"Dracula 5",
+         "install":"https://archive.org/download/pocongjadi/dracula005.png"
+      },
+      {
+         "name_skin":"Dracula 6",
+         "install":"https://archive.org/download/pocongjadi/dracula006.png"
+      },
+      {
+         "name_skin":"Dracula 7",
+         "install":"https://archive.org/download/pocongjadi/dracula007.png"
+      },
+      {
+         "name_skin":"Dracula 8",
+         "install":"https://archive.org/download/pocongjadi/dracula008.png"
+      },
+      {
+         "name_skin":"Dracula 9",
+         "install":"https://archive.org/download/pocongjadi/dracula009.png"
+      },
+      {
+         "name_skin":"Dracula 10",
+         "install":"https://archive.org/download/pocongjadi/dracula010.png"
+      },
+      {
+         "name_skin":"Dracula 11",
+         "install":"https://archive.org/download/pocongjadi/dracula011.png"
+      },
+      {
+         "name_skin":"Ghost 1",
+         "install":"https://archive.org/download/pocongjadi/ghost001.png"
+      },
+      {
+         "name_skin":"Ghost 2",
+         "install":"https://archive.org/download/pocongjadi/ghost002.png"
+      },
+      {
+         "name_skin":"Ghost 3",
+         "install":"https://archive.org/download/pocongjadi/ghost003.png"
+      },
+      {
+         "name_skin":"Ghost 4",
+         "install":"https://archive.org/download/pocongjadi/ghost004.png"
+      },
+      {
+         "name_skin":"Ghost 5",
+         "install":"https://archive.org/download/pocongjadi/ghost005.png"
+      },
+      {
+         "name_skin":"Ghost 6",
+         "install":"https://archive.org/download/pocongjadi/ghost006.png"
+      },
+      {
+         "name_skin":"Ghost 7",
+         "install":"https://archive.org/download/pocongjadi/ghost007.png"
+      },
+      {
+         "name_skin":"Ghost 8",
+         "install":"https://archive.org/download/pocongjadi/ghost008.png"
+      },
+      {
+         "name_skin":"Ghost 9",
+         "install":"https://archive.org/download/pocongjadi/ghost009.png"
+      },
+      {
+         "name_skin":"Ghost 10",
+         "install":"https://archive.org/download/pocongjadi/ghost010.png"
+      },
+      {
+         "name_skin":"Ghost 11",
+         "install":"https://archive.org/download/pocongjadi/ghost011.png"
+      },
+      {
+         "name_skin":"Ghost 12",
+         "install":"https://archive.org/download/pocongjadi/ghost012.png"
+      },
+      {
+         "name_skin":"Skull 1",
+         "install":"https://archive.org/download/pocongjadi/skull001.png"
+      },
+      {
+         "name_skin":"Skull 2",
+         "install":"https://archive.org/download/pocongjadi/skull002.png"
+      },
+      {
+         "name_skin":"Skull 3",
+         "install":"https://archive.org/download/pocongjadi/skull003.png"
+      },
+      {
+         "name_skin":"Skull 4",
+         "install":"https://archive.org/download/pocongjadi/skull004.png"
+      },
+      {
+         "name_skin":"Skull 5",
+         "install":"https://archive.org/download/pocongjadi/skull005.png"
+      },
+      {
+         "name_skin":"Skull 6",
+         "install":"https://archive.org/download/pocongjadi/skull006.png"
+      },
+      {
+         "name_skin":"Skull 7",
+         "install":"https://archive.org/download/pocongjadi/skull007.png"
+      },
+      {
+         "name_skin":"Skull 8",
+         "install":"https://archive.org/download/pocongjadi/skull008.png"
+      },
+      {
+         "name_skin":"Skull 9",
+         "install":"https://archive.org/download/pocongjadi/skull009.png"
+      },
+      {
+         "name_skin":"Skull 10",
+         "install":"https://archive.org/download/pocongjadi/skull010.png"
+      },
+      {
+         "name_skin":"Skull 11",
+         "install":"https://archive.org/download/pocongjadi/skull011.png"
+      },
+      {
+         "name_skin":"Skull 12",
+         "install":"https://archive.org/download/pocongjadi/skull012.png"
+      },
+      {
+         "name_skin":"Skull 13",
+         "install":"https://archive.org/download/pocongjadi/skull013.png"
+      },
+      {
+         "name_skin":"Vampire 1",
+         "install":"https://archive.org/download/pocongjadi/vampire001.png"
+      },
+      {
+         "name_skin":"Vampire 2",
+         "install":"https://archive.org/download/pocongjadi/vampire002.png"
+      },
+      {
+         "name_skin":"Vampire 3",
+         "install":"https://archive.org/download/pocongjadi/vampire003.png"
+      },
+      {
+         "name_skin":"Vampire 4",
+         "install":"https://archive.org/download/pocongjadi/vampire004.png"
+      },
+      {
+         "name_skin":"Vampire 5",
+         "install":"https://archive.org/download/pocongjadi/vampire005.png"
+      },
+      {
+         "name_skin":"Vampire 6",
+         "install":"https://archive.org/download/pocongjadi/vampire006.png"
+      },
+      {
+         "name_skin":"Vampire 7",
+         "install":"https://archive.org/download/pocongjadi/vampire007.png"
+      },
+      {
+         "name_skin":"Vampire 8",
+         "install":"https://archive.org/download/pocongjadi/vampire008.png"
+      },
+      {
+         "name_skin":"Vampire 9",
+         "install":"https://archive.org/download/pocongjadi/vampire009.png"
+      },
+      {
+         "name_skin":"Vampire 10",
+         "install":"https://archive.org/download/pocongjadi/vampire010.png"
+      },
+      {
+         "name_skin":"Vampire 11",
+         "install":"https://archive.org/download/pocongjadi/vampire011.png"
+      },
+      {
+         "name_skin":"Vampire 12",
+         "install":"https://archive.org/download/pocongjadi/vampire012.png"
+      },
+      {
+         "name_skin":"Zombie 1",
+         "install":"https://archive.org/download/pocongjadi/zombie001.png"
+      },
+      {
+         "name_skin":"Zombie 2",
+         "install":"https://archive.org/download/pocongjadi/zombie002.png"
+      },
+      {
+         "name_skin":"Zombie 3",
+         "install":"https://archive.org/download/pocongjadi/zombie003.png"
+      },
+      {
+         "name_skin":"Zombie 4",
+         "install":"https://archive.org/download/pocongjadi/zombie004.png"
+      },
+      {
+         "name_skin":"Zombie 5",
+         "install":"https://archive.org/download/pocongjadi/zombie005.png"
+      },
+      {
+         "name_skin":"Zombie 6",
+         "install":"https://archive.org/download/pocongjadi/zombie006.png"
+      },
+      {
+         "name_skin":"Zombie 7",
+         "install":"https://archive.org/download/pocongjadi/zombie007.png"
+      },
+      {
+         "name_skin":"Zombie 8",
+         "install":"https://archive.org/download/pocongjadi/zombie008.png"
+      },
+      {
+         "name_skin":"Zombie 9",
+         "install":"https://archive.org/download/pocongjadi/zombie009.png"
+      },
+      {
+         "name_skin":"Zombie 10",
+         "install":"https://archive.org/download/pocongjadi/zombie010.png"
+      },
+      {
+         "name_skin":"Zombie 11",
+         "install":"https://archive.org/download/pocongjadi/zombie011.png"
+      },
+      {
+         "name_skin":"Zombie 12",
+         "install":"https://archive.org/download/pocongjadi/zombie012.png"
+      },
+      {
+         "name_skin":"Zombie 13",
+         "install":"https://archive.org/download/pocongjadi/zombie013.png"
+      },
+      {
+         "name_skin":"Zombie 14",
+         "install":"https://archive.org/download/pocongjadi/zombie014.png"
+      }
+   ]
+}
