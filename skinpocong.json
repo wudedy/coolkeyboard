@@ -1,0 +1,70 @@
+{
+ "Ads": [
+  {
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_reward":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  }
+  ],"Skin": [
+    {
+      "name_skin": "Spiderman/Miles Morales",
+      "install": "https://archive.org/download/pocongtest016/pocongtest001.png"
+    },
+    {
+      "name_skin": "Spider-Man Far From Home",
+      "install": "https://archive.org/download/pocongtest016/pocongtest002.png"
+    },
+    {
+      "name_skin": "Vision",
+      "install": "https://archive.org/download/pocongtest016/pocongtest003.png"
+    },
+    {
+      "name_skin": "The Amazing Spider Man 2",
+      "install": "https://archive.org/download/pocongtest016/pocongtest004.png"
+    },
+    {
+      "name_skin": "Wolverine",
+      "install": "https://archive.org/download/pocongtest016/pocongtest005.png"
+    },
+    {
+      "name_skin": "Spiderman White Suit 2099",
+      "install": "https://archive.org/download/pocongtest016/pocongtest006.png"
+    },
+    {
+      "name_skin": "Dr Strange",
+      "install": "https://archive.org/download/pocongtest016/pocongtest007.png"
+    },
+    {
+      "name_skin": "Black Widow",
+      "install": "https://archive.org/download/pocongtest016/pocongtest008.png"
+    },
+    {
+      "name_skin": "Ghost Rider",
+      "install": "https://archive.org/download/pocongtest016/pocongtest009.png"
+    },
+    {
+      "name_skin": "The Punisher",
+      "install": "https://archive.org/download/pocongtest016/pocongtest010.png"
+    }
+  ]
+}
+    
