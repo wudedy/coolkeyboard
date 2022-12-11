@@ -1,0 +1,135 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_ads_natives":"",
+         "main_ads_rewards":"",
+         "backup_ads_natives":"",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
+         "backup_ads_rewards":"",
+         "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+         "open_ads_alien":"",
+         "switch_open_ads":"1",
+         "switch_banner_natives_ads":"1",
+         "interval_intertitial":2,
+         "initialize_sdk":"",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"Ilahana ya Ilahana",
+         "image":"file:///android_asset/image/icon.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Ilahana ya Ilahana - Yasir Lana 1",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/Ilahana1.mp3",
+         "lyrics":""
+      },
+      {
+         "id":2,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Ilahana ya Ilahana - Yasir Lana 2",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/Ilahana2.mp3",
+         "lyrics":""
+      },
+      {
+         "id":3,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Ilahana ya Ilahana - Yasir Lana 3",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/Ilahana3.mp3",
+         "lyrics":""
+      },
+      {
+         "id":4,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Ilahana ya Ilahana - Yasir Lana 4",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/Ilahana4.mp3",
+         "lyrics":""
+      },
+      {
+         "id":5,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Hayyul Hadi",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/hayyulhadi.mp3",
+         "lyrics":""
+      },
+      {
+         "id":6,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Mughrom Akustik",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/mughromakustik.mp3",
+         "lyrics":""
+      },
+      {
+         "id":7,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Musytaqun",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/musytaqun.mp3",
+         "lyrics":""
+      },
+      {
+         "id":8,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Nasamatu Hawak",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/nasamatuhawak.mp3",
+         "lyrics":""
+      },
+      {
+         "id":9,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Qod Anshoha Gitar Akustik",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/qodanshohagitarakustik.mp3",
+         "lyrics":""
+      },
+      {
+         "id":10,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Busyrolana Nilnal Muna",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/busyrolananilnalmuna.mp3",
+         "lyrics":""
+      },
+      {
+         "id":11,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Nahdliyah",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/nahdliyah.mp3",
+         "lyrics":""
+      },
+      {
+         "id":12,
+         "name_category":"Ilahana ya Ilahana",
+         "title":"Istigfar Mohon Ampunan",
+         "image":"file:///android_asset/image/icon.png",
+         "link_mp3":"mp3/istigfarmohonampunan.mp3",
+         "lyrics":""
+      }
+   ]
+}
