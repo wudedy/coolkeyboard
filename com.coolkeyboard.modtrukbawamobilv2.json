@@ -78,22 +78,13 @@
 	    {
       "id": 7,
       "category":"BawaMobil",
-      "title":"Truck Oleng",
-      "title":"Scannie Bawa Supercar ",
+"title":"Scannie Bawa Supercar ",
       "image":"https://archive.org/download/bussidmobil/Scania%20Muatan%20Mobil%20Mewah%20ss.jpg",
       "link_mods":"https://archive.org/download/trukbawamobil/Scania%20Muatan%20Mobil%20Mewah.bussidvehicle",
       "link_livery":"png"
     },
 	    {
       "id": 8,
-      "category":"BawaMobil",
-      "title":"Truck Oleng",
-      "image":"file:///android_asset/truck.webp",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
-    },
-	    {
-      "id": 9,
       "category":"BawaMobil",
       "title":"Cuanter Towing Mobil",
       "image":"https://archive.org/download/bussidmobil/Canter%20Towing%20Bawa%20Mobil%20ss.jpg",
