@@ -1,0 +1,104 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"",
+      "main_ads_rewards":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "survey_api_key":"1eacf74c-c345-4be4-ae4b-4a8f077dd2a8",
+      "high_paying_keyword_1": " wahyu abadi e167032b-6268-445b-ab08-6930ba773a2c",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "DATA":
+  [
+    {
+      "id": 1,
+      "category":"BawaMobil",
+      "title":"Cuanter Bawa Sedan",
+      "image":"file:///android_asset/CanterBawaSedan.jpg",
+      "link_mods":"https://archive.org/download/trukbawamobil/Canter%20Bawa%20Sedan.bussidmod",
+      "link_livery":"png"
+    },
+    {
+      "id": 2,
+      "category":"BawaMobil",
+      "title":"Cuanter Bawa Motor",
+      "image":"file:///android_asset/CantersBawaMotorss.jpg",
+      "link_mods":"https://archive.org/download/trukbawamobil/Canters%20Bawa%20Motor.bussidmod",
+      "link_livery":"png"
+    },
+    {
+      "id": 3,
+      "category":"BawaMobil",
+      "title":"Fueso Trailer",
+      "image":"file:///android_asset/FUSOTRAILERss.jpg",
+      "link_mods":"https://archive.org/download/trukbawamobil/FUSO%20TRAILER.bussidmod",
+      "link_livery":"https://archive.org/download/trukbawamobil/FUSO%20TRAILER.png"
+    }
+  ,
+    {
+      "id": 4,
+      "category":"BawaMobil",
+      "title":"Huino Trailer",
+      "image":"file:///android_asset/HINOTRAILERss.jpg",
+      "link_mods":"https://archive.org/download/trukbawamobil/HINO%20TRAILER.bussidmod",
+      "link_livery":"https://archive.org/download/trukbawamobil/HINO%20TRAILER.png"
+    } ,
+    {
+      "id": 5,
+      "category":"BawaMobil",
+      "title":"Isuzi Bawa Mobil",
+      "image":"https://archive.org/download/bussidmobil/Isuzu%20CarCarrier%20ss.jpg",
+      "link_mods":"https://archive.org/download/trukbawamobil/Isuzu%20CarCarrier.bussidmod",
+      "link_livery":"png"
+    },
+    {
+      "id": 6,
+      "category":"BawaMobil",
+      "title":"Huino Bawa Mobil ",
+      "image":"https://archive.org/download/bussidmobil/HINO%20Car%20Transport%20ss.jpg",
+      "link_mods":"https://archive.org/download/trukbawamobil/HINO%20Car%20Transport.bussidvehicle",
+      "link_livery":"png"
+    },
+	    {
+      "id": 7,
+      "category":"BawaMobil",
+      "title":"Truck Oleng",
+      "title":"Scannie Bawa Supercar ",
+      "image":"https://archive.org/download/bussidmobil/Scania%20Muatan%20Mobil%20Mewah%20ss.jpg",
+      "link_mods":"https://archive.org/download/trukbawamobil/Scania%20Muatan%20Mobil%20Mewah.bussidvehicle",
+      "link_livery":"png"
+    },
+	    {
+      "id": 8,
+      "category":"BawaMobil",
+      "title":"Truck Oleng",
+      "image":"file:///android_asset/truck.webp",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+    },
+	    {
+      "id": 9,
+      "category":"BawaMobil",
+      "title":"Cuanter Towing Mobil",
+      "image":"https://archive.org/download/bussidmobil/Canter%20Towing%20Bawa%20Mobil%20ss.jpg",
+      "link_mods":"https://archive.org/download/trukbawamobil/Canter%20Towing%20Bawa%20Mobil.bussidvehicle",
+      "link_livery":"png"
+    }
+  ]
+}
