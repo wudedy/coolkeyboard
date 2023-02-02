@@ -1,0 +1,103 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_native_ads_Admob_or_applovin":"",
+      "main_ads_rewards":"",
+      "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "survey_api_key":"e167032b-6268-445b-ab08-6930ba773a2c",
+      "high_paying_keyword_1": " wahyu abadi ",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "DATA":
+  [
+    {
+      "id": 1,
+      "category":"Wahyu",
+"title":"Cuanter New Wahyu Abadi Terpal Segitiga",
+      "image":"file:///android_asset/CanterNewWahyuAbadiTerpalSegitigass.png",
+      "link_mods":"https://archive.org/download/wahyuabadi_202204/Canter%20New%20Wahyu%20Abadi%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://archive.org/download/wahyuabadi_202204/Canter%20New%20Wahyu%20Abadi%20Terpal%20Segitiga.png"
+    },
+    {
+      "id": 2,
+      "category":"Wahyu",
+      "title":"Cuanter Wahyu Abadi Bumper No Terpal",
+      "image":"file:///android_asset/CanterWahyuAbadiBumperM18ss.png",
+      "link_mods":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Abadi%20Bumper%20M18.bussidmod",
+      "link_livery":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Abadi%20Bumper%20M18%20No%20Terpal.png"
+    },
+    {
+      "id": 3,
+      "category":"Wahyu",
+      "title":"Cuanter Wahyu Abadi Bumper Terpal Segitiga",
+      "image":"file:///android_asset/CanterWahyuAbadiBumperM18ss.png",
+      "link_mods":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Abadi%20Bumper%20M18.bussidmod",
+      "link_livery":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Abadi%20Bumper%20M18%20Terpal%20Segitiga.png"
+    }
+  ,
+    {
+      "id": 4,
+      "category":"Wahyu",
+      "title":"Cuanter Wahyu Abadi Bumper Terpal Setengah",
+      "image":"file:///android_asset/CanterWahyuAbadiBumperM18ss.png",
+      "link_mods":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Abadi%20Bumper%20M18.bussidmod",
+      "link_livery":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Abadi%20Bumper%20M18%20Terpal%20Setengah.png"
+    } ,
+    {
+      "id": 5,
+      "category":"Wahyu",
+      "title":"Cuanter Wahyu Abadi Tanpa Terpal",
+      "image":"file:///android_asset/CanterWahyuTanpaTerpalss.png",
+      "link_mods":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Tanpa%20Terpal.bussidmod",
+      "link_livery":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Tanpa%20Terpal.png"
+    },
+    {
+      "id": 6,
+      "category":"Wahyu",
+      "title":"Cuanter Wahyu Abadi Gayor",
+      "image":"file:///android_asset/Canter Wahyu Terpal Gayor ss.png",
+      "link_mods":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Terpal%20Gayor.bussidmod",
+      "link_livery":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Terpal%20Gayor.png"
+    },
+	    {
+      "id": 7,
+      "category":"Wahyu",
+      "title":"Cuanter Wahyu Abadi Kotak",
+      "image":"file:///android_asset/Canter Wahyu Terpal Kotak ss.png",
+      "link_mods":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Terpal%20Kotak.bussidmod",
+      "link_livery":"https://archive.org/download/wahyuabadi_202204/Canter%20Wahyu%20Terpal%20Kotak.png"
+    },
+	    {
+      "id": 8,
+      "category":"Wahyu",
+      "title":"Cuanter Wahyu Abadi Full Stiker",
+      "image":"file:///android_asset/Wahyu Abadi Full Sticker ss.png",
+      "link_mods":"https://archive.org/download/wahyuabadi_202204/Wahyu%20Abadi%20Full%20Sticker.bussidmod",
+      "link_livery":"https://archive.org/download/wahyuabadi_202204/Wahyu%20Abadi%20Full%20Sticker.png"
+    },
+	{
+      "id": 9,
+      "category":"Wahyu",
+      "title":"Wahyu Abadi Gayor",
+      "image":"file:///android_asset/Wahyu Abadi Gayor ss.png",
+      "link_mods":"https://archive.org/download/wahyuabadi_202204/Wahyu%20Abadi%20Gayor.bussidmod",
+      "link_livery":"https://archive.org/download/wahyuabadi_202204/Wahyu%20Abadi%20Gayor.png"
+    }
+  ]
+}
