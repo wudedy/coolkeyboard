@@ -1,0 +1,62 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "Theme": [
+    {
+      "url_theme": "https://wudeddieprivacy.files.wordpress.com/2023/02/horse001.jpg"
+    }, 
+     {
+      "url_theme": "https://wudeddieprivacy.files.wordpress.com/2023/02/horse002.jpg"
+    },
+     {
+      "url_theme": "https://wudeddieprivacy.files.wordpress.com/2023/02/horse003.jpg"
+    },
+     {
+      "url_theme": "https://wudeddieprivacy.files.wordpress.com/2023/02/horse004.jpg"
+    },
+     {
+      "url_theme": "https://wudeddieprivacy.files.wordpress.com/2023/02/horse005.jpg"
+    }, 
+    {
+      "url_theme": "https://wudeddieprivacy.files.wordpress.com/2023/02/horse006.jpg"
+    },
+     {
+      "url_theme": "https://wudeddieprivacy.files.wordpress.com/2023/02/horse007.jpg"
+    },
+     {
+      "url_theme": "https://wudeddieprivacy.files.wordpress.com/2023/02/horse008.jpg"
+    },
+     {
+      "url_theme": "https://wudeddieprivacy.files.wordpress.com/2023/02/horse009.jpg"
+    },
+     {
+      "url_theme": "https://wudeddieprivacy.files.wordpress.com/2023/02/horse010.png"
+    }
+  ]
+
+
+}
