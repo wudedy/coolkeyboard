@@ -1,33 +1,33 @@
-{"Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"null",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110x",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"1",
-      "on_off_native_listview":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-     "Categories": [
-    {
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-7691534248804171/3077032395",
+         "main_ads_intertitial":"",
+         "main_ads_natives":"",
+         "backup_ads_natives":"9d85f9f4b4225705",
+         "backup_ads_banner":"1ab4ff8d5cf0c45b",
+         "backup_ads_intertitial":"db0690ec40db09dc",
+         "open_ads_admob":"",
+         "open_ads_alien":"",
+         "switch_open_ads":"1",
+         "switch_banner_natives_ads":"1",
+         "on_off_native_listview":"1",
+         "interval_intertitial":5,
+         "initialize_sdk":"",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "Categories":[
+      {
          "category":"Twibbon Ramadan",
          "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan01.webp"
       },
@@ -43,10 +43,9 @@
          "category":"Gak Kerasa Puasa 2",
          "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab01.webp"
       }
-  ],
-
-  "Item": [
-    {
+   ],
+   "Item":[
+      {
          "id":1,
          "category":"Twibbon Ramadan",
          "title":"Twibbon Ramadan",
@@ -105,8 +104,516 @@
          "category":"Twibbon Ramadan",
          "title":"Twibbon Ramadan",
          "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan10.webp"
+      },
+      {
+         "id":11,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan11.webp"
+      },
+      {
+         "id":12,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan12.webp"
+      },
+      {
+         "id":13,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan13.webp"
+      },
+      {
+         "id":14,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan14.webp"
+      },
+      {
+         "id":15,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan15.webp"
+      },
+      {
+         "id":16,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan16.webp"
+      },
+      {
+         "id":17,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan17.webp"
+      },
+      {
+         "id":18,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan18.webp"
+      },
+      {
+         "id":19,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan19.webp"
+      },
+      {
+         "id":20,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan20.webp"
+      },
+      {
+         "id":21,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan21.webp"
+      },
+      {
+         "id":22,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan22.webp"
+      },
+      {
+         "id":23,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan23.webp"
+      },
+      {
+         "id":24,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan24.webp"
+      },
+      {
+         "id":25,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan25.webp"
+      },
+      {
+         "id":26,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan26.webp"
+      },
+      {
+         "id":27,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan27.webp"
+      },
+      {
+         "id":28,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan28.webp"
+      },
+      {
+         "id":29,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan29.webp"
+      },
+      {
+         "id":30,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan30.webp"
+      },
+      {
+         "id":31,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan31.webp"
+      },
+      {
+         "id":32,
+         "category":"Twibbon Ramadan",
+         "title":"Twibbon Ramadan",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/ramadan32.webp"
+      },
+      {
+         "id":33,
+         "category":"Twibbon Buka Puasa",
+         "title":"Twibbon Buka Puasa",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/bukapuasa01.webp"
+      },
+      {
+         "id":34,
+         "category":"Twibbon Buka Puasa",
+         "title":"Twibbon Buka Puasa",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/bukapuasa02.webp"
+      },
+      {
+         "id":35,
+         "category":"Twibbon Buka Puasa",
+         "title":"Twibbon Buka Puasa",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/bukapuasa03.webp"
+      },
+      {
+         "id":36,
+         "category":"Twibbon Buka Puasa",
+         "title":"Twibbon Buka Puasa",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/bukapuasa04.webp"
+      },
+      {
+         "id":37,
+         "category":"Twibbon Buka Puasa",
+         "title":"Twibbon Buka Puasa",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/bukapuasa05.webp"
+      },
+      {
+         "id":38,
+         "category":"Twibbon Buka Puasa",
+         "title":"Twibbon Buka Puasa",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/bukapuasa06.webp"
+      },
+      {
+         "id":39,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa01.webp"
+      },
+      {
+         "id":40,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa02.webp"
+      },
+      {
+         "id":41,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa03.webp"
+      },
+      {
+         "id":42,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa04.webp"
+      },
+      {
+         "id":43,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa05.webp"
+      },
+      {
+         "id":44,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa06.webp"
+      },
+      {
+         "id":45,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa07.webp"
+      },
+      {
+         "id":46,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa08.webp"
+      },
+      {
+         "id":47,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa09.webp"
+      },
+      {
+         "id":48,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa10.webp"
+      },
+      {
+         "id":49,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa11.webp"
+      },
+      {
+         "id":50,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa12.webp"
+      },
+      {
+         "id":51,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa13.webp"
+      },
+      {
+         "id":52,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa14.webp"
+      },
+      {
+         "id":53,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa15.webp"
+      },
+      {
+         "id":54,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa16.webp"
+      },
+      {
+         "id":55,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa17.webp"
+      },
+      {
+         "id":56,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa18.webp"
+      },
+      {
+         "id":57,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa19.webp"
+      },
+      {
+         "id":58,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa20.webp"
+      },
+      {
+         "id":59,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa21.webp"
+      },
+      {
+         "id":60,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa22.webp"
+      },
+      {
+         "id":61,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa23.webp"
+      },
+      {
+         "id":62,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa24.webp"
+      },
+      {
+         "id":63,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa25.webp"
+      },
+      {
+         "id":64,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa26.webp"
+      },
+      {
+         "id":65,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa27.webp"
+      },
+      {
+         "id":66,
+         "category":"Gak Kerasa Puasa 1",
+         "title":"Gak Kerasa Puasa 1",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasaa28.webp"
+      },
+      {
+         "id":67,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab01.webp"
+      },
+      {
+         "id":68,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab02.webp"
+      },
+      {
+         "id":69,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab03.webp"
+      },
+      {
+         "id":70,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab04.webp"
+      },
+      {
+         "id":71,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab05.webp"
+      },
+      {
+         "id":72,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab06.webp"
+      },
+      {
+         "id":73,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab07.webp"
+      },
+      {
+         "id":74,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab08.webp"
+      },
+      {
+         "id":75,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab09.webp"
+      },
+      {
+         "id":76,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab10.webp"
+      },
+      {
+         "id":77,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab11.webp"
+      },
+      {
+         "id":78,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab12.webp"
+      },
+      {
+         "id":79,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab13.webp"
+      },
+      {
+         "id":80,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab14.webp"
+      },
+      {
+         "id":81,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab15.webp"
+      },
+      {
+         "id":82,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab16.webp"
+      },
+      {
+         "id":83,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab17.webp"
+      },
+      {
+         "id":84,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab18.webp"
+      },
+      {
+         "id":85,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab19.webp"
+      },
+      {
+         "id":86,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab20.webp"
+      },
+      {
+         "id":87,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab21.webp"
+      },
+      {
+         "id":88,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab22.webp"
+      },
+      {
+         "id":89,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab23.webp"
+      },
+      {
+         "id":90,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab24.webp"
+      },
+      {
+         "id":91,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab25.webp"
+      },
+      {
+         "id":92,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab26.webp"
+      },
+      {
+         "id":93,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab27.webp"
+      },
+      {
+         "id":94,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab28.webp"
+      },
+      {
+         "id":95,
+         "category":"Gak Kerasa Puasa 2",
+         "title":"Gak Kerasa Puasa 2",
+         "image_link":"https://wudeddieprivacy.files.wordpress.com/2023/02/gakkerasapuasab29.webp"
       }
-
-
-  ]
+   ]
 }
