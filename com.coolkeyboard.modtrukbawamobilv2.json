@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"null",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-7691534248804171/8767535861",
+      "main_ads_intertitial":"ca-app-pub-7691534248804171/8392071277",
       "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/2247696110",
       "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
       "backup_native_ads_Admob_or_applovin":"",
@@ -73,6 +73,22 @@
       "title":"Huino Bawa Mobil ",
       "image":"https://archive.org/download/bussidmobil/HINO%20Car%20Transport%20ss.jpg",
       "link_mods":"https://archive.org/download/trukbawamobil/HINO%20Car%20Transport.bussidvehicle",
+      "link_livery":"png"
+    },
+	    {
+      "id": 7,
+      "category":"BawaMobil",
+      "title":"Scannie Bawa Supercar ",
+      "image":"https://archive.org/download/bussidmobil/Scania%20Muatan%20Mobil%20Mewah%20ss.jpg",
+      "link_mods":"https://archive.org/download/trukbawamobil/Scania%20Muatan%20Mobil%20Mewah.bussidvehicle",
+      "link_livery":"png"
+    },
+	    {
+      "id": 8,
+      "category":"BawaMobil",
+      "title":"Cuanter Towing Mobil",
+      "image":"https://archive.org/download/bussidmobil/Canter%20Towing%20Bawa%20Mobil%20ss.jpg",
+      "link_mods":"https://archive.org/download/trukbawamobil/Canter%20Towing%20Bawa%20Mobil.bussidvehicle",
       "link_livery":"png"
     }
   ]
